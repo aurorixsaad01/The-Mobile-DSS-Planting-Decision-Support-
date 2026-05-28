@@ -1,5 +1,7 @@
 # 🌱 The Mobile DSS — Planting Decision Support System
 
+> This project forms the foundation of my work moving toward offline TinyML and multi-sensor systems for terraced agriculture.
+
 A **Flutter-based mobile Decision Support System (DSS)** that helps users make smarter planting decisions using AI, real-time weather data, and on-device sensors. Whether you're a beginner or an experienced gardener, this app gives you personalised care plans, plant disease diagnosis, ambient light measurements, and an AI botanist chatbot — all in one place.
 
 ---
